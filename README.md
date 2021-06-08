@@ -1,4 +1,8 @@
 ### Hi there 👋
+- I’m currently working on completing courses in Javascript, Front End Techonlogies, and Web App Design with React. 
+- I’m currently learning at a Coding Boot Camp with Promineo Tech and hopefully expanding my knowledge by taking more courses in the future.
+
+
 
 <!--
 **migahern/migahern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
